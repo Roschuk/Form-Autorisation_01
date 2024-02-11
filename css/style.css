@@ -1,0 +1,75 @@
+body{
+     background:  #C8C8C8;
+     
+}
+
+._conteiner{
+     padding: 10px 0px;
+     background: #2A395F;
+     margin: 20px 500px 0px;
+     height: 680px;
+     box-shadow: -10px -10px 100px rgba(14, 23, 122, 0.449),
+               10px 10px 100px rgba(16, 29, 171, 0.581),
+               inset -2px -2px 20px rgba(14, 23, 122, 0.449),
+               inset 2px 2px 20px rgba(171, 171, 243, 0.581);
+
+}
+.head{
+     padding: 65px 10px 100px 70px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+.Login{
+     color: aliceblue;
+     font-weight: bolder;
+     font-size: 25px;
+}
+.line{
+     width: 90px;  
+     margin-top: -20px;
+     border: none;
+     height: 2px;
+     background: #1161EE;
+}
+.text1{
+     color: #8F929A;
+     
+}
+.text2{
+     color: #8F929A;
+}
+.text3{
+     color: #8F929A;
+}
+.poletext{
+     width: 365px;
+     height: 40px;
+     border-radius: 10px;
+     background: #4d5a7c5e;
+     border: none;
+}
+.button{
+     margin: 20px 0px;
+     height: 45px;
+     width: 370px;
+     border-radius: 10px;
+     background-color: #1161EE;
+     border: 0px solid #4D5A7C;
+     cursor: pointer;
+     color: aliceblue;
+     font-weight: bolder;
+}
+.linef{
+     border: none;
+     height: 2px;
+     background: #5A6582;
+     width: 370px;
+     margin-top: -60px;
+
+}
+.text4{
+     text-align: center;
+     padding: 40px 0px;
+     color: #5A6582;
+     font-weight: bolder;
+}
